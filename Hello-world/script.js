@@ -1,0 +1,1 @@
+console.log("Hello World"); //This is how to print in JavaScript//
