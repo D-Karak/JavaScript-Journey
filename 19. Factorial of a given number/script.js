@@ -4,6 +4,4 @@ var startValue=1;
 for(let i=1;i<=factorial;i++){
     startValue*=i//startValue=startValue*i
     console.log(startValue);
-    
 }
-//console.log(result);
